@@ -72,9 +72,6 @@ const config = {
         "Created a two-week pivot strategy: priced aggressively at the high end knowing we'd dominate the market, with a clear plan to adjust if we didn't generate immediate traction",
         "Made the flood plain concern disappear by addressing every possible buyer question before they even asked it - turning their biggest fear into a streamlined, transparent process"
       ],
-      "testimonial": {
-        "quote": "\"Thank you for streamlining this and making it so smooth. We're thrilled we sold it at the price we did, especially after being told it was impossible. You turned what everyone said was our biggest problem into a complete non-issue.\"<br><span> - Satisfied Client</span>"
-      },
       "listItems": []
     },
     {
