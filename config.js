@@ -25,12 +25,12 @@ const config = {
   },
   "header": {
     "tag": "CASE STUDY",
-    "title": "How We Sold a 4-Bedroom Waterfront Home for $39,000 More Than the Neighbor Said Was Possible - In Just 12 Days in an Active Flood Plain",
+    "title": "How We Sold a 4-Bedroom Waterfront Home for $39,000 Above What the Seller Was Told Was Possible - In Just 12 Days in an Active Flood Plain",
     "subheadline": "Sold 3X Faster Than Market Average in a High-Risk Area Everyone Said Was Impossible to Move"
   },
   "mainBox": {
     "summary": {
-      "title": "How We Sold a 4-Bedroom Waterfront Home for $39,000 More Than the Neighbor Said Was Possible - In Just 12 Days in an Active Flood Plain",
+      "title": "How We Sold a 4-Bedroom Waterfront Home for $39,000 Above What the Seller Was Told Was Possible - In Just 12 Days in an Active Flood Plain",
       "heroImage": {
         "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1765902689511-1-web-or-mls-660-bayview-dr.jpg"
       },
