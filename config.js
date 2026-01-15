@@ -37,7 +37,7 @@ const config = {
       "subTitle": "Summary",
       "paragraphs": [
         "Our clients were seasoned investors and repeat clients who had become friends over years of successful deals together. They were ready to downsize and move closer to the city, but they owned a beautiful 3,109 sq ft waterfront property in an area with one massive problem: an active flood plain that scared away every potential buyer.",
-        "Through professional service and market expertise, we delivered exceptional results for our client. SOLD IN 12 DAYS - nearly 3X faster than the 35+ day market average in the area Final sale price of $669,000 - $39,000 MORE than the neighbor said \"nobody would ever pay\" Generated an offer after just 2 showings in a location most agents said would sit on the market for months Eliminated the inspection condition entirely through strategic pre-listing preparation, creating a cleaner, faster transaction Positioned our clients to move into their rental property closer to the city and actively pursue new investment opportunities"
+        "Through professional service and market expertise, we delivered exceptional results for our client. SOLD IN 12 DAYS - nearly 3X faster than the 35+ day market average in the area. Final sale price of $669,000 - $39,000 MORE than the neighbor said \"nobody would ever pay\". Generated an offer after just 2 showings in a location most agents said would sit on the market for months. Eliminated the inspection condition entirely through strategic pre-listing preparation, creating a cleaner, faster transaction. Positioned our clients to move into their rental property closer to the city and actively pursue new investment opportunities"
       ]
     },
     "sidebar": {
