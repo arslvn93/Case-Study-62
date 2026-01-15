@@ -30,7 +30,7 @@ const config = {
   },
   "mainBox": {
     "summary": {
-      "title": "How We Sold a 4-Bedroom Waterfront Home for $39,000 Above What the Seller Was Told Was Possible - In Just 12 Days in an Active Flood Plain",
+      "title": "How We Sold a 4-Bedroom Waterfront Home for $39,000 Above What the Seller Was Told Was Possible, In Just 12 Days in an Active Flood Plain",
       "heroImage": {
         "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1765902689511-1-web-or-mls-660-bayview-dr.jpg"
       },
